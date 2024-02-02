@@ -4,4 +4,4 @@ asgiref==3.5.2
 certifi==2022.6.15
 cffi==1.15.0
 charset-normalizer==2.0.12
-Pillow==8.0.0
+Pillow==10.2.0
